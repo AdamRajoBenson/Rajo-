@@ -13,7 +13,7 @@ else if(a<0)
 {
 System.out.println("NEGATIVE");
 }
-else
+else if(a==0) 
 {
 System.out.println("ZERO");
 }
