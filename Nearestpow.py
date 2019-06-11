@@ -1,2 +1,2 @@
-w=int(input())
-print(w*2)
+o=int(input())
+print(o*2)
